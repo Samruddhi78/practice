@@ -1,0 +1,60 @@
+.body{
+    background-color: darkmagenta;
+
+}
+.bodyQ{
+    background: darkslateblue		;
+}
+.title{
+    color: lavenderblush;
+    font-size: 35px;
+    position: relative;
+    left: 30%;
+    top: 10%;
+    border: 1px;
+    border-color: gray;
+    width: fit-content;
+}
+
+.button{
+    background-color: burlywood;
+    position: absolute;
+    top: 37%;
+    left:43%;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+border-radius: 10px;
+
+}
+.Question{
+    position: relative;
+    left: 38%;
+    top: 11%;
+    width: fit-content;
+    text-align: center;
+    height: fit-content;
+    font-size: 30px;
+    color: white;
+}
+.Answer{
+    color: white;
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    top: 20%;
+    text-align: center;
+    font-size: 30px;
+}
+.textb{
+    width: 17%;
+    height: auto;
+    align-items: center;
+    color: darkslateblue;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: inherit;
+}
